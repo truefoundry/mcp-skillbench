@@ -1,0 +1,14 @@
+{
+  "key": "d6139be73941380c3b7f",
+  "server": "linear",
+  "tool": "list_documents",
+  "arguments": {
+    "includeArchived": false,
+    "query": "zzz-test exec postmortem"
+  },
+  "response": {
+    "documents": [],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16"
+}

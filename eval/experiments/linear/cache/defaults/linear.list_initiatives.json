@@ -1,0 +1,30 @@
+{
+  "key": "b68fd2d0697142d6e4eb",
+  "server": "linear",
+  "tool": "list_initiatives",
+  "arguments": {
+    "includeArchived": false,
+    "includeProjects": true,
+    "query": "Northstar Marketing Agents"
+  },
+  "response": {
+    "initiatives": [
+      {
+        "id": "e8ec7164-38f6-42d1-9e51-5516a85457d6",
+        "name": "Northstar Marketing Agents",
+        "summary": "Multi-month program building marketing agents across approximately ten workflows.",
+        "status": "Active",
+        "projects": [
+          {
+            "name": "Platform Foundations"
+          },
+          {
+            "name": "Content & Asset Production"
+          }
+        ]
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

@@ -1,0 +1,11 @@
+{
+  "canvas_id": "F0EXAMPLE01",
+  "channel_name": "mcp-gateway",
+  "document_topic": "Social Plan & Post Calendar",
+  "issue_id": "QAR-113",
+  "issue_topic": "exec-bench2 sandbox",
+  "linear_feature": "cycles",
+  "message_link": "https://example.slack.com/archives/C0EXAMPLE01/p1789013638410999?thread_ts=1788954922.315819&cid=C0EXAMPLE01",
+  "project_name": "[zzz-test] exec-bench2 sandbox project — safe to cancel",
+  "team_name": "qa-release"
+}

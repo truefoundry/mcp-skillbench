@@ -1,0 +1,24 @@
+{
+  "key": "1d17f07cab72895b859d",
+  "server": "slack",
+  "tool": "slack_get_reactions",
+  "arguments": {
+    "channel_id": "C0EXAMPLE01",
+    "message_ts": "1788954922.315819"
+  },
+  "response": {
+    "reactions": [
+      {
+        "name": "white_check_mark",
+        "count": 1,
+        "users": [
+          {
+            "display_name": "Linear",
+            "id": "U0EXAMPLE05"
+          }
+        ]
+      }
+    ]
+  },
+  "source": "live-read-2026-09-16"
+}

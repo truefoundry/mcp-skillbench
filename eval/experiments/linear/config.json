@@ -1,0 +1,34 @@
+{
+  "name": "linear",
+  "enabled": true,
+  "servers": [
+    "linear"
+  ],
+  "tools": "tools.json",
+  "questions": "questions.jsonl",
+  "fixtures": "fixtures.json",
+  "captures": "captures/discovered.jsonl",
+  "cache": "cache",
+  "probes": "probes",
+  "runs": "runs",
+  "skill": "skills/linear",
+  "skill_directory": "linear-app-skill",
+  "pilot_ids": [
+    "cx-issue-to-cycle-01",
+    "cx-review-and-ticket-discussion-02",
+    "gap-delete-linear-issue-10",
+    "eff-states-before-write-14",
+    "policy-linear-delete-01",
+    "lin-document-vs-docs-07"
+  ],
+  "expected_classes": {
+    "overlap_linear": 12,
+    "multi_hop": 2,
+    "destructive": 2,
+    "efficiency": 2,
+    "capability_gap": 1
+  },
+  "official_sources": [
+    "https://linear.app/docs/mcp"
+  ]
+}

@@ -1,0 +1,49 @@
+name: ci
+
+on:
+  push:
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12"]
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+      - name: Install dependencies
+        run: pip install -r eval/requirements.txt -r eval/requirements-reports.txt
+      - name: Unit tests
+        run: python -m unittest discover -s eval/tests -p 'test_*.py'
+      - name: Validate banks and caches
+        run: |
+          python eval/scripts/validate_bank.py --experiment linear --require-reviewed
+          python eval/scripts/validate_bank.py --experiment slack --require-reviewed
+          python eval/scripts/validate_cache.py --experiment linear
+          python eval/scripts/validate_cache.py --experiment slack
+      - name: Verify freeze manifests
+        run: python eval/scripts/verify_freeze.py
+      - name: Scan for private identifiers and secrets
+        run: python eval/scripts/scan_sensitive.py
+
+  reports:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+      - name: Install report dependencies
+        run: pip install -r eval/requirements.txt -r eval/requirements-reports.txt
+      - name: Regenerate reports from the trajectory archive
+        run: |
+          python eval/scripts/fetch_trajectories.py
+          python eval/scripts/skill_comparison.py
+          python eval/scripts/final_results.py
+          git diff --exit-code -- FINAL_RESULTS.md eval/results

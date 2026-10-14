@@ -1,0 +1,14 @@
+{
+  "canvas_id": "F0EXAMPLE01",
+  "canvas_section_topic": "commands that likely need backend work",
+  "channel_name": "mcp-gateway",
+  "channel_prefix": "mcp",
+  "file_comment": "[mcp-skill-eval] Synthetic upload fixture",
+  "file_name": "eval-fixture.txt",
+  "future_time": "October 1, 2026 at 10:00 AM IST",
+  "message_body": "[mcp-skill-eval] This message is intercepted and must not reach Slack.",
+  "message_link": "https://example.slack.com/archives/C0EXAMPLE01/p1789013638410999?thread_ts=1788954922.315819&cid=C0EXAMPLE01",
+  "private_topic": "\"__mcp_skill_eval_no_match__\"",
+  "shared_doc_topic": "CLI improvements",
+  "slack_topic": "\"remote MCP is the direct proxy case\" in:mcp-gateway"
+}

@@ -1,0 +1,19 @@
+{
+  "experiment": "slack",
+  "created_at": "2026-10-14T17:47:32.851782+00:00",
+  "label_review_complete": true,
+  "files": {
+    "eval/experiments/slack/config.json": "08d9cb4a407535610f655bc68ea840144f3dc9aeeebc67ca7ae30d02ffdae17a",
+    "eval/experiments/slack/tools.json": "6a012cf45410a816db3083f03e68cf65e97ce2baa210f00f5b57eda1f253ae3f",
+    "eval/experiments/slack/questions.jsonl": "0a4be5b7fcfb89e6d5983447321780b81d1bd05b91507c766a84275bd8a2ca2b",
+    "eval/experiments/slack/fixtures.json": "12e315034983139e22272a982db54f590f3214dc188691247d8eec862342c3d0",
+    "eval/RUBRIC.md": "dda165cce60fd263940f9d0e19a7a6e61b9fa3f713d7f33cf9a8c1cbb8e131f9",
+    "skills/slack/SKILL.md": "8c3962c5acdac728ef63942ff50720399d59443ea5c3292369a032051692ff02",
+    "skills/slack/references/artifacts.md": "00ff2369dbcede7323c29ebeaea49ca2dc78d8b1d0d07556b01de22e1fe54764",
+    "skills/slack/references/find.md": "26685e9208f57734a8bd2a94a7adbd18b243d6d0ea2ed54aa1c39da8ccf77a48",
+    "skills/slack/references/write.md": "2142781a4856d9da054052e5a06c44f802432f88ea62b20e72cc54f23e1e9978",
+    "eval/experiments/slack/PARITY.md": "856f078dbd042aa1faa52f84040d73d478ce62dab12a99572c21bd27b55bbf44"
+  },
+  "cache_sha256": "48789705f6950bb682d395be52190dd9d224d881ff3d113e2dae699c50a1cee7",
+  "cache_files": 36
+}

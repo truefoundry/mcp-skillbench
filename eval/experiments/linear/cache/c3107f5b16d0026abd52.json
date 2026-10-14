@@ -1,0 +1,11 @@
+{
+  "key": "c3107f5b16d0026abd52",
+  "server": "linear",
+  "tool": "list_agent_skills",
+  "arguments": {},
+  "response": {
+    "agentSkills": [],
+    "hasNextPage": false
+  },
+  "source": "live-recording"
+}

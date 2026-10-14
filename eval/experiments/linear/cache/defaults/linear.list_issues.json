@@ -1,0 +1,30 @@
+{
+  "key": "47a8c7bdce3fe0f11da2",
+  "server": "linear",
+  "tool": "list_issues",
+  "arguments": {
+    "includeArchived": false,
+    "team": "qa-release"
+  },
+  "response": {
+    "issues": [
+      {
+        "id": "QAR-113",
+        "title": "[zzz-test] exec-bench2 sandbox issue — safe to cancel",
+        "status": "Canceled"
+      },
+      {
+        "id": "QAR-98",
+        "title": "[zzz-test] MCP skill benchmark sandbox — safe to cancel/delete",
+        "status": "Canceled"
+      },
+      {
+        "id": "QAR-8",
+        "title": "Visual Testing",
+        "status": "Backlog"
+      }
+    ],
+    "hasNextPage": true
+  },
+  "source": "live-read-2026-09-16-curated"
+}

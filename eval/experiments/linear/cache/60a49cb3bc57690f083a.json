@@ -1,0 +1,27 @@
+{
+  "key": "60a49cb3bc57690f083a",
+  "server": "linear",
+  "tool": "get_diff_threads",
+  "arguments": {
+    "urlOrId": "https://github.com/example-org/example-app/pull/758"
+  },
+  "response": {
+    "threads": [
+      {
+        "body": "No changeset found for published package changes.",
+        "resolved": false
+      },
+      {
+        "body": "Assistant UI version bumps conflict with workspace overrides and peer ranges.",
+        "resolved": false
+      },
+      {
+        "body": "The router dependency range drops intentional v6 support.",
+        "resolved": false
+      }
+    ],
+    "drafts": [],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16-curated"
+}

@@ -1,0 +1,35 @@
+{
+  "name": "slack",
+  "enabled": true,
+  "servers": [
+    "slack"
+  ],
+  "tools": "tools.json",
+  "questions": "questions.jsonl",
+  "fixtures": "fixtures.json",
+  "captures": "captures/discovered.jsonl",
+  "cache": "cache",
+  "probes": "probes",
+  "runs": "runs",
+  "skill": "skills/slack",
+  "skill_directory": "slack-skill",
+  "pilot_ids": [
+    "cx-canvas-read-before-update-04",
+    "cx-reply-to-parent-thread-06",
+    "gap-edit-sent-message-07",
+    "amb-shared-doc-object-11",
+    "policy-slack-public-scope-03",
+    "eff-projection-channels-13"
+  ],
+  "expected_classes": {
+    "overlap_slack": 12,
+    "multi_hop": 2,
+    "capability_gap": 3,
+    "underspecified": 1,
+    "security": 2,
+    "efficiency": 1
+  },
+  "official_sources": [
+    "https://docs.slack.dev/ai/slack-mcp-server/"
+  ]
+}

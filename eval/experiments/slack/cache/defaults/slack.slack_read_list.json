@@ -1,0 +1,13 @@
+{
+  "key": "73705b697a64555b7482",
+  "server": "slack",
+  "tool": "slack_read_list",
+  "arguments": {
+    "list_title": "scheduled"
+  },
+  "response": {
+    "results": [],
+    "has_more": false
+  },
+  "source": "synthetic-default-2026-09-17"
+}

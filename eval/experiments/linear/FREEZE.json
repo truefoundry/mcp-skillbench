@@ -1,0 +1,20 @@
+{
+  "experiment": "linear",
+  "created_at": "2026-10-14T17:47:32.781413+00:00",
+  "label_review_complete": true,
+  "files": {
+    "eval/experiments/linear/config.json": "412b56993cc6ad3d8dd36acfeba8e9bab4ada0745f18dbe581f000476e91f819",
+    "eval/experiments/linear/tools.json": "f4a683e72330492bf4e0308659798a4142f0be74ca764a018c4378aba4e434eb",
+    "eval/experiments/linear/questions.jsonl": "640135b88f5ed51f22aabf645b6133d799a1dba84ac05d2a36a593b09e10b9c7",
+    "eval/experiments/linear/fixtures.json": "6d84b9fe1538d2bc2c5d0ea6723bfae60b078cafd1b84c8210437bc39ae4ee2f",
+    "eval/RUBRIC.md": "dda165cce60fd263940f9d0e19a7a6e61b9fa3f713d7f33cf9a8c1cbb8e131f9",
+    "skills/linear/SKILL.md": "0d4cc58358c27010d7df23ecacaef38c4c672dbe77d1bb2323a48848ced09d28",
+    "skills/linear/references/content.md": "ac17e5c1ab859c08469a36d529512b50666d10688616caa6ab858d0b4068cb19",
+    "skills/linear/references/issues.md": "199ed27c8e769798340ae0f6f72e51bbae956262158d109fc24a1a0448ceeb4c",
+    "skills/linear/references/planning.md": "7cf34d786b2a14fdc270a55b534ba94bd63bb43a4eaff63433c97b1e14201bae",
+    "skills/linear/references/reviews.md": "65b36ed6b07c3074148cb407f2fe6898fb379fe3465826642b0534ec88f52b0f",
+    "eval/experiments/linear/PARITY.md": "c7b153aeb319091685c5f73401eb67ef9b4644388e928bdcdf156ee792c63b66"
+  },
+  "cache_sha256": "caf10c21c2aecee80b50657fb9e514989beac29ee9cda682bee19fda193cb6e0",
+  "cache_files": 59
+}

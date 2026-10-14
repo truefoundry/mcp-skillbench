@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Helvetica, Arial, sans-serif">
+<rect width="1200" height="440" fill="#FFFFFF"/>
+<text x="70" y="30" font-size="18" font-weight="600" fill="#111827">p95 end-to-end latency (seconds)</text>
+<line x1="70" y1="330.0" x2="1176" y2="330.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="334.0" font-size="11" fill="#6B7280" text-anchor="end">0s</text>
+<line x1="70" y1="275.2" x2="1176" y2="275.2" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="279.2" font-size="11" fill="#6B7280" text-anchor="end">48s</text>
+<line x1="70" y1="220.4" x2="1176" y2="220.4" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="224.4" font-size="11" fill="#6B7280" text-anchor="end">95s</text>
+<line x1="70" y1="165.6" x2="1176" y2="165.6" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="169.6" font-size="11" fill="#6B7280" text-anchor="end">143s</text>
+<line x1="70" y1="110.8" x2="1176" y2="110.8" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="114.8" font-size="11" fill="#6B7280" text-anchor="end">190s</text>
+<line x1="70" y1="56.0" x2="1176" y2="56.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="60.0" font-size="11" fill="#6B7280" text-anchor="end">238s</text>
+<rect x="82.9" y="254.4" width="30.2" height="75.6" fill="#9CA3AF" rx="2"/>
+<text x="98.0" y="250.4" font-size="10" fill="#374151" text-anchor="middle">66</text>
+<rect x="116.1" y="275.2" width="30.2" height="54.8" fill="#10B981" rx="2"/>
+<text x="131.2" y="271.2" font-size="10" fill="#374151" text-anchor="middle">48</text>
+<text x="116.1" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="116.1" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-medium</text>
+<rect x="175.1" y="231.3" width="30.2" height="98.7" fill="#9CA3AF" rx="2"/>
+<text x="190.2" y="227.3" font-size="10" fill="#374151" text-anchor="middle">86</text>
+<rect x="208.3" y="267.2" width="30.2" height="62.8" fill="#10B981" rx="2"/>
+<text x="223.3" y="263.2" font-size="10" fill="#374151" text-anchor="middle">55</text>
+<text x="208.3" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="208.3" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-high</text>
+<rect x="267.2" y="256.0" width="30.2" height="74.0" fill="#9CA3AF" rx="2"/>
+<text x="282.3" y="252.0" font-size="10" fill="#374151" text-anchor="middle">64</text>
+<rect x="300.4" y="285.4" width="30.2" height="44.6" fill="#10B981" rx="2"/>
+<text x="315.5" y="281.4" font-size="10" fill="#374151" text-anchor="middle">39</text>
+<text x="300.4" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="300.4" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-medium</text>
+<rect x="359.4" y="242.9" width="30.2" height="87.1" fill="#9CA3AF" rx="2"/>
+<text x="374.5" y="238.9" font-size="10" fill="#374151" text-anchor="middle">76</text>
+<rect x="392.6" y="276.6" width="30.2" height="53.4" fill="#10B981" rx="2"/>
+<text x="407.7" y="272.6" font-size="10" fill="#374151" text-anchor="middle">46</text>
+<text x="392.6" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="392.6" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-high</text>
+<rect x="451.6" y="237.0" width="30.2" height="93.0" fill="#9CA3AF" rx="2"/>
+<text x="466.7" y="233.0" font-size="10" fill="#374151" text-anchor="middle">81</text>
+<rect x="484.8" y="269.3" width="30.2" height="60.7" fill="#10B981" rx="2"/>
+<text x="499.8" y="265.3" font-size="10" fill="#374151" text-anchor="middle">53</text>
+<text x="484.8" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="484.8" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-medium</text>
+<rect x="543.7" y="229.3" width="30.2" height="100.7" fill="#9CA3AF" rx="2"/>
+<text x="558.8" y="225.3" font-size="10" fill="#374151" text-anchor="middle">88</text>
+<rect x="576.9" y="268.4" width="30.2" height="61.6" fill="#10B981" rx="2"/>
+<text x="592.0" y="264.4" font-size="10" fill="#374151" text-anchor="middle">53</text>
+<text x="576.9" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="576.9" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-high</text>
+<rect x="635.9" y="221.1" width="30.2" height="108.9" fill="#9CA3AF" rx="2"/>
+<text x="651.0" y="217.1" font-size="10" fill="#374151" text-anchor="middle">95</text>
+<rect x="669.1" y="255.4" width="30.2" height="74.6" fill="#10B981" rx="2"/>
+<text x="684.2" y="251.4" font-size="10" fill="#374151" text-anchor="middle">65</text>
+<text x="669.1" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="669.1" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-medium</text>
+<rect x="728.1" y="91.7" width="30.2" height="238.3" fill="#9CA3AF" rx="2"/>
+<text x="743.2" y="87.7" font-size="10" fill="#374151" text-anchor="middle">207</text>
+<rect x="761.2" y="234.8" width="30.2" height="95.2" fill="#10B981" rx="2"/>
+<text x="776.3" y="230.8" font-size="10" fill="#374151" text-anchor="middle">83</text>
+<text x="761.3" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="761.3" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-high</text>
+<rect x="820.2" y="266.3" width="30.2" height="63.7" fill="#9CA3AF" rx="2"/>
+<text x="835.3" y="262.3" font-size="10" fill="#374151" text-anchor="middle">55</text>
+<rect x="853.4" y="274.2" width="30.2" height="55.8" fill="#10B981" rx="2"/>
+<text x="868.5" y="270.2" font-size="10" fill="#374151" text-anchor="middle">48</text>
+<text x="853.4" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="853.4" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-medium</text>
+<rect x="912.4" y="255.2" width="30.2" height="74.8" fill="#9CA3AF" rx="2"/>
+<text x="927.5" y="251.2" font-size="10" fill="#374151" text-anchor="middle">65</text>
+<rect x="945.6" y="272.1" width="30.2" height="57.9" fill="#10B981" rx="2"/>
+<text x="960.7" y="268.1" font-size="10" fill="#374151" text-anchor="middle">50</text>
+<text x="945.6" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="945.6" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-high</text>
+<rect x="1004.6" y="263.7" width="30.2" height="66.3" fill="#9CA3AF" rx="2"/>
+<text x="1019.7" y="259.7" font-size="10" fill="#374151" text-anchor="middle">58</text>
+<rect x="1037.8" y="256.6" width="30.2" height="73.4" fill="#10B981" rx="2"/>
+<text x="1052.8" y="252.6" font-size="10" fill="#374151" text-anchor="middle">64</text>
+<text x="1037.8" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="1037.8" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-medium</text>
+<rect x="1096.7" y="235.7" width="30.2" height="94.3" fill="#9CA3AF" rx="2"/>
+<text x="1111.8" y="231.7" font-size="10" fill="#374151" text-anchor="middle">82</text>
+<rect x="1129.9" y="255.4" width="30.2" height="74.6" fill="#10B981" rx="2"/>
+<text x="1145.0" y="251.4" font-size="10" fill="#374151" text-anchor="middle">65</text>
+<text x="1129.9" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="1129.9" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-high</text>
+<line x1="70" y1="330" x2="1176" y2="330" stroke="#9CA3AF" stroke-width="1"/>
+<rect x="70" y="402" width="14" height="14" fill="#9CA3AF" rx="2"/>
+<text x="90" y="413" font-size="12" fill="#374151">no skill</text>
+<rect x="164" y="402" width="14" height="14" fill="#10B981" rx="2"/>
+<text x="184" y="413" font-size="12" fill="#374151">with skill</text>
+</svg>

@@ -1,0 +1,23 @@
+{
+  "key": "bc2c8195664ee5f4a8e8",
+  "server": "slack",
+  "tool": "slack_search_public",
+  "arguments": {
+    "content_types": "messages",
+    "query": "\"remote MCP is the direct proxy case\" in:mcp-gateway"
+  },
+  "response": {
+    "results": [
+      {
+        "channel_name": "mcp-gateway",
+        "channel_id": "C0EXAMPLE01",
+        "author": "Fixture Engineer",
+        "timestamp": "1789013638.410999",
+        "thread_ts": "1788954922.315819",
+        "text": "Remote MCP is the direct proxy case and already supports the new protocol; the update is for the MCP client used by UI and virtual MCP."
+      }
+    ],
+    "has_more": false
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

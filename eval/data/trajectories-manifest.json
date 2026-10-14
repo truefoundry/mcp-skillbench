@@ -1,0 +1,17 @@
+{
+  "name": "mcp-skillbench-trajectories-2026-09-29",
+  "archive": "mcp-skillbench-trajectories-2026-09-29.tar.gz",
+  "sha256": "0774952ca42c20d4010ca6cbb7f8342e3b7403f2b96177bd335f0f44c5772085",
+  "redacted_after_run": true,
+  "metrics_source": "Published headline metrics were computed from the frozen private source before this public redaction. The archive is a post-run redacted copy of those trajectories.",
+  "private_source_commit": "95750703808a5ebb8661d07d9dfc57dcb2445e64",
+  "measurements": {
+    "v1": "2026-09-17",
+    "v2": "2026-09-29"
+  },
+  "layout": {
+    "linear": "model-runs/<setting>/ for v1 and model-runs/<setting>-v2/ for the v2 treatment",
+    "slack": "model-runs/<setting>/ for v1 and model-runs/<setting>-v2/ for the v2 treatment"
+  },
+  "excluded": ["probe-* run sets"]
+}

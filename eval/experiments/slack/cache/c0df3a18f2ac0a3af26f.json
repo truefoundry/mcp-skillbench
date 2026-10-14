@@ -1,0 +1,10 @@
+{
+  "key": "c0df3a18f2ac0a3af26f",
+  "server": "slack",
+  "tool": "slack_read_user_profile",
+  "arguments": {},
+  "response": {
+    "result": "fixture-current-user (Fixture Current User)\nFixture Workspace\nMember"
+  },
+  "source": "synthetic-default-2026-09-17"
+}

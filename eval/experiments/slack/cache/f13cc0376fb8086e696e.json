@@ -1,0 +1,15 @@
+{
+  "key": "f13cc0376fb8086e696e",
+  "server": "slack",
+  "tool": "slack_read_file",
+  "arguments": {
+    "file_id": "F0EXAMPLE01"
+  },
+  "response": {
+    "file_id": "F0EXAMPLE01",
+    "title": "CLI improvements",
+    "file_type": "canvas",
+    "message": "This object is a Slack canvas; use slack_read_canvas for its contents."
+  },
+  "source": "live-read-2026-09-17-projected"
+}

@@ -1,0 +1,14 @@
+{
+  "key": "44a5e401466cfa8d5549",
+  "server": "linear",
+  "tool": "get_agent_skill",
+  "arguments": {
+    "id": "delete-issue"
+  },
+  "response": {
+    "error": "invalid_request",
+    "message": "Could not find referenced AiPrompt.",
+    "status": 400
+  },
+  "source": "live-recording-redacted"
+}

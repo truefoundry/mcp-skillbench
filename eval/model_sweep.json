@@ -1,0 +1,81 @@
+{
+  "judge_model": {
+    "id": "claude-opus-4-8",
+    "params": [
+      {"id": "thinking", "value": "true"},
+      {"id": "context", "value": "1m"},
+      {"id": "effort", "value": "high"},
+      {"id": "fast", "value": "false"}
+    ]
+  },
+  "models": [
+    {
+      "key": "sonnet-4-6-medium",
+      "selection": {
+        "id": "claude-sonnet-4-6",
+        "params": [
+          {"id": "thinking", "value": "true"},
+          {"id": "context", "value": "1m"},
+          {"id": "effort", "value": "medium"}
+        ]
+      }
+    },
+    {
+      "key": "sonnet-4-6-high",
+      "selection": {
+        "id": "claude-sonnet-4-6",
+        "params": [
+          {"id": "thinking", "value": "true"},
+          {"id": "context", "value": "1m"},
+          {"id": "effort", "value": "high"}
+        ]
+      }
+    },
+    {
+      "key": "opus-4-8-medium",
+      "selection": {
+        "id": "claude-opus-4-8",
+        "params": [
+          {"id": "thinking", "value": "true"},
+          {"id": "context", "value": "1m"},
+          {"id": "effort", "value": "medium"},
+          {"id": "fast", "value": "false"}
+        ]
+      }
+    },
+    {
+      "key": "opus-4-8-high",
+      "selection": {
+        "id": "claude-opus-4-8",
+        "params": [
+          {"id": "thinking", "value": "true"},
+          {"id": "context", "value": "1m"},
+          {"id": "effort", "value": "high"},
+          {"id": "fast", "value": "false"}
+        ]
+      }
+    },
+    {
+      "key": "fable-5-medium",
+      "selection": {
+        "id": "claude-fable-5",
+        "params": [
+          {"id": "thinking", "value": "true"},
+          {"id": "context", "value": "1m"},
+          {"id": "effort", "value": "medium"}
+        ]
+      }
+    },
+    {
+      "key": "fable-5-high",
+      "selection": {
+        "id": "claude-fable-5",
+        "params": [
+          {"id": "thinking", "value": "true"},
+          {"id": "context", "value": "1m"},
+          {"id": "effort", "value": "high"}
+        ]
+      }
+    }
+  ]
+}

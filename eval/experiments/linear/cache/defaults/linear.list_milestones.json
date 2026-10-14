@@ -1,0 +1,12 @@
+{
+  "key": "40fdc6a3cdda40590223",
+  "server": "linear",
+  "tool": "list_milestones",
+  "arguments": {
+    "project": "[zzz-test] exec-bench2 sandbox project — safe to cancel"
+  },
+  "response": {
+    "milestones": []
+  },
+  "source": "live-read-2026-09-16"
+}

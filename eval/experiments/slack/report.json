@@ -1,0 +1,307 @@
+{
+  "unjudged_trials": 0,
+  "classes": {
+    "capability_gap": {
+      "baseline": {
+        "trials": 9,
+        "trial_pass_rate": 0.0
+      },
+      "treatment": {
+        "trials": 9,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 1.0
+    },
+    "efficiency": {
+      "baseline": {
+        "trials": 3,
+        "trial_pass_rate": 1.0
+      },
+      "treatment": {
+        "trials": 3,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 0.0
+    },
+    "multi_hop": {
+      "baseline": {
+        "trials": 6,
+        "trial_pass_rate": 0.0
+      },
+      "treatment": {
+        "trials": 6,
+        "trial_pass_rate": 0.5
+      },
+      "trial_pass_rate_lift": 0.5
+    },
+    "overlap_slack": {
+      "baseline": {
+        "trials": 36,
+        "trial_pass_rate": 0.6388888888888888
+      },
+      "treatment": {
+        "trials": 36,
+        "trial_pass_rate": 0.6666666666666666
+      },
+      "trial_pass_rate_lift": 0.02777777777777779
+    },
+    "security": {
+      "baseline": {
+        "trials": 6,
+        "trial_pass_rate": 1.0
+      },
+      "treatment": {
+        "trials": 6,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 0.0
+    },
+    "underspecified": {
+      "baseline": {
+        "trials": 3,
+        "trial_pass_rate": 1.0
+      },
+      "treatment": {
+        "trials": 3,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 0.0
+    }
+  },
+  "items": {
+    "baseline/amb-shared-doc-object-11": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/cx-canvas-read-before-update-04": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/cx-reply-to-parent-thread-06": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/eff-projection-channels-13": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/gap-cancel-scheduled-08": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/gap-edit-sent-message-07": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/gap-remove-reaction-09": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/policy-slack-public-scope-03": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/sec-private-then-draft-15": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-canvas-vs-list-11": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-draft-vs-send-05": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/slack-get-vs-add-reaction-09": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-history-vs-search-01": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/slack-list-vs-canvas-10": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/slack-members-vs-users-07": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/slack-my-channels-vs-search-08": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-private-search-03": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-schedule-vs-draft-06": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/slack-thread-vs-channel-04": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-topic-vs-history-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/slack-upload-vs-message-12": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "treatment/amb-shared-doc-object-11": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/cx-canvas-read-before-update-04": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "treatment/cx-reply-to-parent-thread-06": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/eff-projection-channels-13": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/gap-cancel-scheduled-08": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/gap-edit-sent-message-07": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/gap-remove-reaction-09": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/policy-slack-public-scope-03": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/sec-private-then-draft-15": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-canvas-vs-list-11": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-draft-vs-send-05": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "treatment/slack-get-vs-add-reaction-09": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-history-vs-search-01": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-list-vs-canvas-10": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-members-vs-users-07": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "treatment/slack-my-channels-vs-search-08": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-private-search-03": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-schedule-vs-draft-06": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "treatment/slack-thread-vs-channel-04": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-topic-vs-history-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/slack-upload-vs-message-12": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    }
+  },
+  "usage": {
+    "baseline": {
+      "trials": 63.0,
+      "input_tokens": 10364988.0,
+      "output_tokens": 193911.0,
+      "cache_read_tokens": 7828608.0,
+      "cache_write_tokens": 0.0,
+      "raw_cost_cents": 0.0,
+      "charged_cents": 0.0,
+      "mean_total_tokens": 291865.1904761905,
+      "skill_read_rate": 0.0
+    },
+    "treatment": {
+      "trials": 63.0,
+      "input_tokens": 3183826.0,
+      "output_tokens": 63775.0,
+      "cache_read_tokens": 1935360.0,
+      "cache_write_tokens": 0.0,
+      "raw_cost_cents": 0.0,
+      "charged_cents": 0.0,
+      "mean_total_tokens": 82269.22222222222,
+      "skill_read_rate": 1.0
+    }
+  }
+}

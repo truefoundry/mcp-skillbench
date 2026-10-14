@@ -1,0 +1,22 @@
+{
+  "key": "953712e80d6fdbb54434",
+  "server": "linear",
+  "tool": "get_diff",
+  "arguments": {
+    "urlOrId": "https://github.com/example-org/example-app/pull/758"
+  },
+  "response": {
+    "title": "chore(deps): bump dependency group",
+    "number": 758,
+    "fullIdentifier": "example-org/example-app#758",
+    "status": "open",
+    "mergeStatus": "blocked",
+    "diffStats": {
+      "fileCount": 6,
+      "additions": 1764,
+      "deletions": 1900
+    },
+    "reviewSummary": "Dependency-only update with medium regression risk."
+  },
+  "source": "live-read-2026-09-16-curated"
+}

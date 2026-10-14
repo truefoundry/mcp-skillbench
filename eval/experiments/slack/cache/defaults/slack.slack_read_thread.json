@@ -1,0 +1,21 @@
+{
+  "key": "4b89e23878ad61aab0d9",
+  "server": "slack",
+  "tool": "slack_read_thread",
+  "arguments": {
+    "channel_id": "C0EXAMPLE01",
+    "message_ts": "1788954922.315819"
+  },
+  "response": {
+    "channel": "mcp-gateway",
+    "parent": "Release blocker: /method/tools/call returns a session ID required error.",
+    "replies": [
+      "The failure was verified against one MCP server while other servers worked.",
+      "The negotiated protocol was not cached, causing fallback to the wrong mode.",
+      "A temporary environment override was proposed while a protocol-era cache fix was prepared.",
+      "Two follow-up Linear issues were created."
+    ],
+    "message_count": 20
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

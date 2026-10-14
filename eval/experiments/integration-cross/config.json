@@ -1,0 +1,19 @@
+{
+  "name": "integration-cross",
+  "enabled": false,
+  "servers": [
+    "linear",
+    "slack"
+  ],
+  "tools": "tools.json",
+  "questions": "questions.jsonl",
+  "fixtures": "fixtures.json",
+  "captures": "captures.jsonl",
+  "cache": "cache",
+  "runs": "runs",
+  "skills": [
+    "skills/linear",
+    "skills/slack"
+  ],
+  "deferred_reason": "Run only after the independent Linear and Slack experiments are frozen."
+}

@@ -1,0 +1,14 @@
+{
+  "key": "f8d2d0f13886a9f7c746",
+  "server": "slack",
+  "tool": "slack_search_users",
+  "arguments": {
+    "query": "mcp-gateway",
+    "search_type": "name"
+  },
+  "response": {
+    "results": [],
+    "has_more": false
+  },
+  "source": "live-read-2026-09-16"
+}

@@ -1,0 +1,26 @@
+{
+  "key": "c2dbd2875fd62def9551",
+  "server": "slack",
+  "tool": "slack_search_channels",
+  "arguments": {
+    "channel_types": "public_channel",
+    "include_archived": false,
+    "query": "mcp-gateway"
+  },
+  "response": {
+    "results": [
+      {
+        "name": "mcp-gateway-linear",
+        "id": "C0EXAMPLE02",
+        "type": "public_channel"
+      },
+      {
+        "name": "mcp-gateway",
+        "id": "C0EXAMPLE01",
+        "type": "public_channel"
+      }
+    ],
+    "has_more": false
+  },
+  "source": "live-read-2026-09-16-curated"
+}

@@ -1,0 +1,14 @@
+{
+  "key": "6c05403b2dbf4e2d8e19",
+  "server": "linear",
+  "tool": "get_attachment",
+  "arguments": {
+    "id": "80123e02-61ed-4982-aebf-876304d42b04"
+  },
+  "response": {
+    "id": "80123e02-61ed-4982-aebf-876304d42b04",
+    "title": "Dashboard",
+    "url": "https://grafana.example/d/abc"
+  },
+  "source": "live-recording"
+}

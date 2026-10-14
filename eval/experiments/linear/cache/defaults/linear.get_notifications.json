@@ -1,0 +1,11 @@
+{
+  "key": "e9298023eb1cf28b4a4d",
+  "server": "linear",
+  "tool": "get_notifications",
+  "arguments": {},
+  "response": {
+    "notifications": [],
+    "hasMore": false
+  },
+  "source": "synthetic-default-2026-09-17"
+}

@@ -1,0 +1,25 @@
+{
+  "key": "74bf71794d46d1bb9d64",
+  "server": "linear",
+  "tool": "get_status_updates",
+  "arguments": {
+    "project": "[zzz-test] exec-bench2 sandbox project \u2014 safe to cancel",
+    "type": "project"
+  },
+  "response": {
+    "statusUpdates": [
+      {
+        "id": "46c43f21-c230-4593-8fb4-c6a85b543bac",
+        "body": "Off track this week.",
+        "health": "offTrack",
+        "createdAt": "2026-07-17T06:24:42.190Z",
+        "type": "project",
+        "project": {
+          "name": "[zzz-test] exec-bench2 sandbox project \u2014 safe to cancel"
+        }
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16-curated"
+}

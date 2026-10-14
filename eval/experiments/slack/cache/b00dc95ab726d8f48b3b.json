@@ -1,0 +1,31 @@
+{
+  "key": "b00dc95ab726d8f48b3b",
+  "server": "slack",
+  "tool": "slack_read_channel",
+  "arguments": {
+    "channel_id": "C0EXAMPLE01",
+    "latest": "1789020000.000000",
+    "oldest": "1788950000.000000"
+  },
+  "response": {
+    "channel": "mcp-gateway",
+    "messages": [
+      {
+        "timestamp": "1788954922.315819",
+        "author": "Fixture Engineer",
+        "text": "Release blocker: /method/tools/call returns a session ID required error."
+      },
+      {
+        "timestamp": "1789016987.000000",
+        "author": "Fixture Engineer",
+        "text": "Agent auth assertion work linked to service pull requests."
+      },
+      {
+        "timestamp": "1789017034.000000",
+        "author": "Fixture Engineer",
+        "text": "SigV4 external ID work linked to server and gateway pull requests."
+      }
+    ]
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

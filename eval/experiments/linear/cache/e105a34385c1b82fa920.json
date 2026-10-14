@@ -1,0 +1,33 @@
+{
+  "key": "e105a34385c1b82fa920",
+  "server": "linear",
+  "tool": "list_issues",
+  "arguments": {
+    "assignee": "me",
+    "includeArchived": false,
+    "label": "Bug",
+    "team": "qa-release"
+  },
+  "response": {
+    "issues": [
+      {
+        "id": "QAR-113",
+        "title": "[zzz-test] exec-bench2 sandbox issue \u2014 safe to cancel",
+        "status": "Canceled",
+        "statusType": "canceled",
+        "priority": {
+          "value": 2,
+          "name": "High"
+        },
+        "labels": [
+          "Bug"
+        ],
+        "assignee": "Fixture User",
+        "project": "[zzz-test] exec-bench2 sandbox project \u2014 safe to cancel",
+        "team": "qa-release"
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

@@ -1,0 +1,14 @@
+{
+  "key": "492258f32d2c0f4d2577",
+  "server": "slack",
+  "tool": "slack_list_user_channels",
+  "arguments": {
+    "exclude_archived": true,
+    "name_prefix": "mcp",
+    "types": "public_channel"
+  },
+  "response": {
+    "result": "## My Channels (showing 1 of 1 total)\n\n#mcp-gateway\n"
+  },
+  "source": "live-recording"
+}

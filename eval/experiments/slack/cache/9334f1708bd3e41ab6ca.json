@@ -1,0 +1,18 @@
+{
+  "key": "9334f1708bd3e41ab6ca",
+  "server": "slack",
+  "tool": "slack_list_channel_members",
+  "arguments": {
+    "channel_id": "C0EXAMPLE01"
+  },
+  "response": {
+    "member_ids": [
+      "U0EXAMPLE01",
+      "U0EXAMPLE02",
+      "U0EXAMPLE03",
+      "U0EXAMPLE04"
+    ],
+    "has_more": false
+  },
+  "source": "live-read-2026-09-17-complete-projection"
+}

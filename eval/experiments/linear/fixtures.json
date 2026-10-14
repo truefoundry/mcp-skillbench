@@ -1,0 +1,15 @@
+{
+  "attachment_id": "80123e02-61ed-4982-aebf-876304d42b04",
+  "comment_body": "[mcp-skill-eval] This comment is intercepted and must not reach Linear.",
+  "document_topic": "Social Plan & Post Calendar",
+  "initiative_name": "Northstar Marketing Agents",
+  "issue_id": "QAR-113",
+  "issue_topic": "exec-bench2 sandbox",
+  "label_name": "Bug",
+  "linear_feature": "cycles",
+  "link_title": "MCP skill evaluation reference",
+  "link_url": "https://example.com/mcp-skill-eval",
+  "project_name": "[zzz-test] exec-bench2 sandbox project — safe to cancel",
+  "pull_request_url": "https://github.com/example-org/example-app/pull/758",
+  "team_name": "qa-release"
+}

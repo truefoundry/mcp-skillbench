@@ -1,0 +1,42 @@
+{
+  "key": "bd9b7553a023fb8faef5",
+  "server": "linear",
+  "tool": "get_issue",
+  "arguments": {
+    "id": "QAR-113"
+  },
+  "response": {
+    "id": "QAR-113",
+    "title": "[zzz-test] exec-bench2 sandbox issue — safe to cancel",
+    "description": "Throwaway issue used by a skill-vs-no-skill benchmark. Test writes target this issue.",
+    "priority": {
+      "value": 2,
+      "name": "High"
+    },
+    "estimate": {
+      "value": 5,
+      "name": "5 Points"
+    },
+    "status": "Canceled",
+    "statusType": "canceled",
+    "labels": [
+      "Bug"
+    ],
+    "assignee": "Fixture User",
+    "project": "[zzz-test] exec-bench2 sandbox project — safe to cancel",
+    "team": "qa-release",
+    "attachments": [
+      {
+        "id": "80123e02-61ed-4982-aebf-876304d42b04",
+        "title": "Dashboard",
+        "url": "https://grafana.example/d/abc"
+      },
+      {
+        "id": "38ebe0ad-76e6-43bb-8506-575851af7b1e",
+        "title": "Figma Design",
+        "url": "https://figma.com/file/demo"
+      }
+    ]
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

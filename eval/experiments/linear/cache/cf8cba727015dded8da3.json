@@ -1,0 +1,30 @@
+{
+  "key": "cf8cba727015dded8da3",
+  "server": "linear",
+  "tool": "list_comments",
+  "arguments": {
+    "issueId": "QAR-113"
+  },
+  "response": {
+    "comments": [
+      {
+        "body": "Fixture user requested review.",
+        "parentId": null
+      },
+      {
+        "body": "ack",
+        "parentId": "fixture-root"
+      },
+      {
+        "body": "Fixture handoff note.",
+        "parentId": null
+      },
+      {
+        "body": "Priority set to High; planned for next sprint.",
+        "parentId": null
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16-redacted"
+}

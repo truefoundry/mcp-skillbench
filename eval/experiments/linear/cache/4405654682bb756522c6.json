@@ -1,0 +1,11 @@
+{
+  "key": "4405654682bb756522c6",
+  "server": "linear",
+  "tool": "list_releases",
+  "arguments": {},
+  "response": {
+    "releases": [],
+    "hasNextPage": false
+  },
+  "source": "synthetic-default-2026-09-17"
+}

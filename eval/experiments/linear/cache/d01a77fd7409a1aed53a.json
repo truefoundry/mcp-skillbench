@@ -1,0 +1,16 @@
+{
+  "key": "d01a77fd7409a1aed53a",
+  "server": "linear",
+  "tool": "get_team",
+  "arguments": {
+    "query": "qa-release"
+  },
+  "response": {
+    "id": "c5b857a7-293d-45dc-a66e-d8eb35dd285c",
+    "name": "qa-release",
+    "visibility": "public",
+    "createdAt": "2026-04-14T04:17:34.756Z",
+    "updatedAt": "2026-09-16T01:12:58.089Z"
+  },
+  "source": "live-recording"
+}

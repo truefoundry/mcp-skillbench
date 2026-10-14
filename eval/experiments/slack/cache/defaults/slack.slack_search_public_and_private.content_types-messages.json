@@ -1,0 +1,14 @@
+{
+  "key": "402f72da6d0e4cc94956",
+  "server": "slack",
+  "tool": "slack_search_public_and_private",
+  "arguments": {
+    "content_types": "messages",
+    "query": "\"__mcp_skill_eval_no_match__\""
+  },
+  "response": {
+    "results": [],
+    "has_more": false
+  },
+  "source": "live-read-2026-09-16"
+}

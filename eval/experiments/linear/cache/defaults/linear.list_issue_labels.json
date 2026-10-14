@@ -1,0 +1,13 @@
+{
+  "key": "d8d64d742f39dc329fd9",
+  "server": "linear",
+  "tool": "list_issue_labels",
+  "arguments": {
+    "teamId": "c5b857a7-293d-45dc-a66e-d8eb35dd285c"
+  },
+  "response": {
+    "labels": [],
+    "hasNextPage": false
+  },
+  "source": "synthetic-default-2026-09-17"
+}

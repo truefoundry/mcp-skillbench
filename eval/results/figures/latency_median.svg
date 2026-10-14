@@ -1,0 +1,93 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Helvetica, Arial, sans-serif">
+<rect width="1200" height="440" fill="#FFFFFF"/>
+<text x="70" y="30" font-size="18" font-weight="600" fill="#111827">Median end-to-end latency (seconds)</text>
+<line x1="70" y1="330.0" x2="1176" y2="330.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="334.0" font-size="11" fill="#6B7280" text-anchor="end">0s</text>
+<line x1="70" y1="275.2" x2="1176" y2="275.2" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="279.2" font-size="11" fill="#6B7280" text-anchor="end">11s</text>
+<line x1="70" y1="220.4" x2="1176" y2="220.4" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="224.4" font-size="11" fill="#6B7280" text-anchor="end">23s</text>
+<line x1="70" y1="165.6" x2="1176" y2="165.6" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="169.6" font-size="11" fill="#6B7280" text-anchor="end">34s</text>
+<line x1="70" y1="110.8" x2="1176" y2="110.8" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="114.8" font-size="11" fill="#6B7280" text-anchor="end">46s</text>
+<line x1="70" y1="56.0" x2="1176" y2="56.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="60.0" font-size="11" fill="#6B7280" text-anchor="end">57s</text>
+<rect x="82.9" y="196.5" width="30.2" height="133.5" fill="#9CA3AF" rx="2"/>
+<text x="98.0" y="192.5" font-size="10" fill="#374151" text-anchor="middle">28</text>
+<rect x="116.1" y="195.0" width="30.2" height="135.0" fill="#10B981" rx="2"/>
+<text x="131.2" y="191.0" font-size="10" fill="#374151" text-anchor="middle">28</text>
+<text x="116.1" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="116.1" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-medium</text>
+<rect x="175.1" y="181.9" width="30.2" height="148.1" fill="#9CA3AF" rx="2"/>
+<text x="190.2" y="177.9" font-size="10" fill="#374151" text-anchor="middle">31</text>
+<rect x="208.3" y="188.9" width="30.2" height="141.1" fill="#10B981" rx="2"/>
+<text x="223.3" y="184.9" font-size="10" fill="#374151" text-anchor="middle">29</text>
+<text x="208.3" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="208.3" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-high</text>
+<rect x="267.2" y="181.8" width="30.2" height="148.2" fill="#9CA3AF" rx="2"/>
+<text x="282.3" y="177.8" font-size="10" fill="#374151" text-anchor="middle">31</text>
+<rect x="300.4" y="188.5" width="30.2" height="141.5" fill="#10B981" rx="2"/>
+<text x="315.5" y="184.5" font-size="10" fill="#374151" text-anchor="middle">29</text>
+<text x="300.4" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="300.4" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-medium</text>
+<rect x="359.4" y="161.2" width="30.2" height="168.8" fill="#9CA3AF" rx="2"/>
+<text x="374.5" y="157.2" font-size="10" fill="#374151" text-anchor="middle">35</text>
+<rect x="392.6" y="184.1" width="30.2" height="145.9" fill="#10B981" rx="2"/>
+<text x="407.7" y="180.1" font-size="10" fill="#374151" text-anchor="middle">30</text>
+<text x="392.6" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="392.6" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-high</text>
+<rect x="451.6" y="132.2" width="30.2" height="197.8" fill="#9CA3AF" rx="2"/>
+<text x="466.7" y="128.2" font-size="10" fill="#374151" text-anchor="middle">41</text>
+<rect x="484.8" y="159.6" width="30.2" height="170.4" fill="#10B981" rx="2"/>
+<text x="499.8" y="155.6" font-size="10" fill="#374151" text-anchor="middle">35</text>
+<text x="484.8" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="484.8" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-medium</text>
+<rect x="543.7" y="119.4" width="30.2" height="210.6" fill="#9CA3AF" rx="2"/>
+<text x="558.8" y="115.4" font-size="10" fill="#374151" text-anchor="middle">44</text>
+<rect x="576.9" y="150.9" width="30.2" height="179.1" fill="#10B981" rx="2"/>
+<text x="592.0" y="146.9" font-size="10" fill="#374151" text-anchor="middle">37</text>
+<text x="576.9" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="576.9" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-high</text>
+<rect x="635.9" y="182.5" width="30.2" height="147.5" fill="#9CA3AF" rx="2"/>
+<text x="651.0" y="178.5" font-size="10" fill="#374151" text-anchor="middle">31</text>
+<rect x="669.1" y="186.9" width="30.2" height="143.1" fill="#10B981" rx="2"/>
+<text x="684.2" y="182.9" font-size="10" fill="#374151" text-anchor="middle">30</text>
+<text x="669.1" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="669.1" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-medium</text>
+<rect x="728.1" y="151.7" width="30.2" height="178.3" fill="#9CA3AF" rx="2"/>
+<text x="743.2" y="147.7" font-size="10" fill="#374151" text-anchor="middle">37</text>
+<rect x="761.2" y="173.4" width="30.2" height="156.6" fill="#10B981" rx="2"/>
+<text x="776.3" y="169.4" font-size="10" fill="#374151" text-anchor="middle">33</text>
+<text x="761.3" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="761.3" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-high</text>
+<rect x="820.2" y="170.4" width="30.2" height="159.6" fill="#9CA3AF" rx="2"/>
+<text x="835.3" y="166.4" font-size="10" fill="#374151" text-anchor="middle">33</text>
+<rect x="853.4" y="179.2" width="30.2" height="150.8" fill="#10B981" rx="2"/>
+<text x="868.5" y="175.2" font-size="10" fill="#374151" text-anchor="middle">31</text>
+<text x="853.4" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="853.4" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-medium</text>
+<rect x="912.4" y="152.5" width="30.2" height="177.5" fill="#9CA3AF" rx="2"/>
+<text x="927.5" y="148.5" font-size="10" fill="#374151" text-anchor="middle">37</text>
+<rect x="945.6" y="171.9" width="30.2" height="158.1" fill="#10B981" rx="2"/>
+<text x="960.7" y="167.9" font-size="10" fill="#374151" text-anchor="middle">33</text>
+<text x="945.6" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="945.6" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-high</text>
+<rect x="1004.6" y="129.0" width="30.2" height="201.0" fill="#9CA3AF" rx="2"/>
+<text x="1019.7" y="125.0" font-size="10" fill="#374151" text-anchor="middle">42</text>
+<rect x="1037.8" y="139.0" width="30.2" height="191.0" fill="#10B981" rx="2"/>
+<text x="1052.8" y="135.0" font-size="10" fill="#374151" text-anchor="middle">40</text>
+<text x="1037.8" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="1037.8" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-medium</text>
+<rect x="1096.7" y="91.7" width="30.2" height="238.3" fill="#9CA3AF" rx="2"/>
+<text x="1111.8" y="87.7" font-size="10" fill="#374151" text-anchor="middle">50</text>
+<rect x="1129.9" y="134.5" width="30.2" height="195.5" fill="#10B981" rx="2"/>
+<text x="1145.0" y="130.5" font-size="10" fill="#374151" text-anchor="middle">41</text>
+<text x="1129.9" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="1129.9" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-high</text>
+<line x1="70" y1="330" x2="1176" y2="330" stroke="#9CA3AF" stroke-width="1"/>
+<rect x="70" y="402" width="14" height="14" fill="#9CA3AF" rx="2"/>
+<text x="90" y="413" font-size="12" fill="#374151">no skill</text>
+<rect x="164" y="402" width="14" height="14" fill="#10B981" rx="2"/>
+<text x="184" y="413" font-size="12" fill="#374151">with skill</text>
+</svg>

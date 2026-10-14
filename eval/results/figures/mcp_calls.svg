@@ -1,0 +1,107 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="440" viewBox="0 0 1200 440" font-family="Helvetica, Arial, sans-serif">
+<rect width="1200" height="440" fill="#FFFFFF"/>
+<text x="70" y="30" font-size="18" font-weight="600" fill="#111827">Mean MCP calls per trial (dashed line is the shortest gold path)</text>
+<line x1="70" y1="330.0" x2="1176" y2="330.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="334.0" font-size="11" fill="#6B7280" text-anchor="end">0.00</text>
+<line x1="70" y1="275.2" x2="1176" y2="275.2" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="279.2" font-size="11" fill="#6B7280" text-anchor="end">1.08</text>
+<line x1="70" y1="220.4" x2="1176" y2="220.4" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="224.4" font-size="11" fill="#6B7280" text-anchor="end">2.16</text>
+<line x1="70" y1="165.6" x2="1176" y2="165.6" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="169.6" font-size="11" fill="#6B7280" text-anchor="end">3.24</text>
+<line x1="70" y1="110.8" x2="1176" y2="110.8" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="114.8" font-size="11" fill="#6B7280" text-anchor="end">4.32</text>
+<line x1="70" y1="56.0" x2="1176" y2="56.0" stroke="#E5E7EB" stroke-width="1"/>
+<text x="62" y="60.0" font-size="11" fill="#6B7280" text-anchor="end">5.40</text>
+<rect x="82.9" y="187.7" width="30.2" height="142.3" fill="#9CA3AF" rx="2"/>
+<text x="98.0" y="183.7" font-size="10" fill="#374151" text-anchor="middle">2.81</text>
+<rect x="116.1" y="248.2" width="30.2" height="81.8" fill="#10B981" rx="2"/>
+<text x="131.2" y="244.2" font-size="10" fill="#374151" text-anchor="middle">1.61</text>
+<line x1="77.4" y1="279.3" x2="154.8" y2="279.3" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="116.1" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="116.1" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-medium</text>
+<rect x="175.1" y="177.0" width="30.2" height="153.0" fill="#9CA3AF" rx="2"/>
+<text x="190.2" y="173.0" font-size="10" fill="#374151" text-anchor="middle">3.02</text>
+<rect x="208.3" y="236.6" width="30.2" height="93.4" fill="#10B981" rx="2"/>
+<text x="223.3" y="232.6" font-size="10" fill="#374151" text-anchor="middle">1.84</text>
+<line x1="169.5" y1="279.3" x2="247.0" y2="279.3" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="208.3" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="208.3" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-high</text>
+<rect x="267.2" y="228.6" width="30.2" height="101.4" fill="#9CA3AF" rx="2"/>
+<text x="282.3" y="224.6" font-size="10" fill="#374151" text-anchor="middle">2.00</text>
+<rect x="300.4" y="271.3" width="30.2" height="58.7" fill="#10B981" rx="2"/>
+<text x="315.5" y="267.3" font-size="10" fill="#374151" text-anchor="middle">1.16</text>
+<line x1="261.7" y1="279.3" x2="339.1" y2="279.3" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="300.4" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="300.4" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-medium</text>
+<rect x="359.4" y="217.9" width="30.2" height="112.1" fill="#9CA3AF" rx="2"/>
+<text x="374.5" y="213.9" font-size="10" fill="#374151" text-anchor="middle">2.21</text>
+<rect x="392.6" y="272.2" width="30.2" height="57.8" fill="#10B981" rx="2"/>
+<text x="407.7" y="268.2" font-size="10" fill="#374151" text-anchor="middle">1.14</text>
+<line x1="353.9" y1="279.3" x2="431.3" y2="279.3" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="392.6" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="392.6" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-high</text>
+<rect x="451.6" y="222.4" width="30.2" height="107.6" fill="#9CA3AF" rx="2"/>
+<text x="466.7" y="218.4" font-size="10" fill="#374151" text-anchor="middle">2.12</text>
+<rect x="484.8" y="264.2" width="30.2" height="65.8" fill="#10B981" rx="2"/>
+<text x="499.8" y="260.2" font-size="10" fill="#374151" text-anchor="middle">1.30</text>
+<line x1="446.0" y1="279.3" x2="523.5" y2="279.3" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="484.8" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="484.8" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-medium</text>
+<rect x="543.7" y="213.5" width="30.2" height="116.5" fill="#9CA3AF" rx="2"/>
+<text x="558.8" y="209.5" font-size="10" fill="#374151" text-anchor="middle">2.30</text>
+<rect x="576.9" y="263.3" width="30.2" height="66.7" fill="#10B981" rx="2"/>
+<text x="592.0" y="259.3" font-size="10" fill="#374151" text-anchor="middle">1.32</text>
+<line x1="538.2" y1="279.3" x2="615.6" y2="279.3" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="576.9" y="348" font-size="11" fill="#374151" text-anchor="middle">Linear</text>
+<text x="576.9" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-high</text>
+<rect x="635.9" y="169.0" width="30.2" height="161.0" fill="#9CA3AF" rx="2"/>
+<text x="651.0" y="165.0" font-size="10" fill="#374151" text-anchor="middle">3.17</text>
+<rect x="669.1" y="243.1" width="30.2" height="86.9" fill="#10B981" rx="2"/>
+<text x="684.2" y="239.1" font-size="10" fill="#374151" text-anchor="middle">1.71</text>
+<line x1="630.4" y1="267.2" x2="707.8" y2="267.2" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="669.1" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="669.1" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-medium</text>
+<rect x="728.1" y="91.7" width="30.2" height="238.3" fill="#9CA3AF" rx="2"/>
+<text x="743.2" y="87.7" font-size="10" fill="#374151" text-anchor="middle">4.70</text>
+<rect x="761.2" y="201.2" width="30.2" height="128.8" fill="#10B981" rx="2"/>
+<text x="776.3" y="197.2" font-size="10" fill="#374151" text-anchor="middle">2.54</text>
+<line x1="722.5" y1="267.2" x2="800.0" y2="267.2" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="761.3" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="761.3" y="362" font-size="11" fill="#374151" text-anchor="middle">sonnet-4-6-high</text>
+<rect x="820.2" y="237.4" width="30.2" height="92.6" fill="#9CA3AF" rx="2"/>
+<text x="835.3" y="233.4" font-size="10" fill="#374151" text-anchor="middle">1.83</text>
+<rect x="853.4" y="265.6" width="30.2" height="64.4" fill="#10B981" rx="2"/>
+<text x="868.5" y="261.6" font-size="10" fill="#374151" text-anchor="middle">1.27</text>
+<line x1="814.7" y1="267.2" x2="892.1" y2="267.2" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="853.4" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="853.4" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-medium</text>
+<rect x="912.4" y="247.9" width="30.2" height="82.1" fill="#9CA3AF" rx="2"/>
+<text x="927.5" y="243.9" font-size="10" fill="#374151" text-anchor="middle">1.62</text>
+<rect x="945.6" y="262.4" width="30.2" height="67.6" fill="#10B981" rx="2"/>
+<text x="960.7" y="258.4" font-size="10" fill="#374151" text-anchor="middle">1.33</text>
+<line x1="906.9" y1="267.2" x2="984.3" y2="267.2" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="945.6" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="945.6" y="362" font-size="11" fill="#374151" text-anchor="middle">opus-4-8-high</text>
+<rect x="1004.6" y="235.8" width="30.2" height="94.2" fill="#9CA3AF" rx="2"/>
+<text x="1019.7" y="231.8" font-size="10" fill="#374151" text-anchor="middle">1.86</text>
+<rect x="1037.8" y="244.7" width="30.2" height="85.3" fill="#10B981" rx="2"/>
+<text x="1052.8" y="240.7" font-size="10" fill="#374151" text-anchor="middle">1.68</text>
+<line x1="999.0" y1="267.2" x2="1076.5" y2="267.2" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="1037.8" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="1037.8" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-medium</text>
+<rect x="1096.7" y="230.2" width="30.2" height="99.8" fill="#9CA3AF" rx="2"/>
+<text x="1111.8" y="226.2" font-size="10" fill="#374151" text-anchor="middle">1.97</text>
+<rect x="1129.9" y="243.1" width="30.2" height="86.9" fill="#10B981" rx="2"/>
+<text x="1145.0" y="239.1" font-size="10" fill="#374151" text-anchor="middle">1.71</text>
+<line x1="1091.2" y1="267.2" x2="1168.6" y2="267.2" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="1129.9" y="348" font-size="11" fill="#374151" text-anchor="middle">Slack</text>
+<text x="1129.9" y="362" font-size="11" fill="#374151" text-anchor="middle">fable-5-high</text>
+<line x1="70" y1="330" x2="1176" y2="330" stroke="#9CA3AF" stroke-width="1"/>
+<rect x="70" y="402" width="14" height="14" fill="#9CA3AF" rx="2"/>
+<text x="90" y="413" font-size="12" fill="#374151">no skill</text>
+<rect x="164" y="402" width="14" height="14" fill="#10B981" rx="2"/>
+<text x="184" y="413" font-size="12" fill="#374151">with skill</text>
+<line x1="274" y1="409" x2="296" y2="409" stroke="#DC2626" stroke-width="2" stroke-dasharray="6 4"/>
+<text x="302" y="413" font-size="12" fill="#374151">gold</text>
+</svg>

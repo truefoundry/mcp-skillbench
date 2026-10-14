@@ -1,0 +1,12 @@
+.DS_Store
+.env
+.venv/
+__pycache__/
+*.pyc
+*.tar.gz
+!eval/data/mcp-skillbench-trajectories-2026-09-29.tar.gz
+data/trajectories/
+eval/experiments/*/runs/
+eval/experiments/*/probes/
+eval/experiments/*/model-runs/
+.cursor/

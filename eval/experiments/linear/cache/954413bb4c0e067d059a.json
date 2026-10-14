@@ -1,0 +1,12 @@
+{
+  "key": "954413bb4c0e067d059a",
+  "server": "linear",
+  "tool": "get_workspace",
+  "arguments": {},
+  "response": {
+    "id": "78b657a2-4695-4a90-b0e7-fd6e52b82202",
+    "name": "Example",
+    "url": "https://linear.app/example"
+  },
+  "source": "live-recording"
+}

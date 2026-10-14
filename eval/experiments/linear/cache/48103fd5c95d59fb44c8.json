@@ -1,0 +1,20 @@
+{
+  "key": "48103fd5c95d59fb44c8",
+  "server": "linear",
+  "tool": "list_teams",
+  "arguments": {
+    "includeArchived": false,
+    "query": "qa-release"
+  },
+  "response": {
+    "teams": [
+      {
+        "id": "c5b857a7-293d-45dc-a66e-d8eb35dd285c",
+        "name": "qa-release",
+        "visibility": "public"
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16"
+}

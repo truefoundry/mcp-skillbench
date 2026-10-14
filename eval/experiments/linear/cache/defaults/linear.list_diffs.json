@@ -1,0 +1,71 @@
+{
+  "key": "aef615871b762acaf797",
+  "server": "linear",
+  "tool": "list_diffs",
+  "arguments": {
+    "query": "trueforge"
+  },
+  "response": {
+    "diffs": [
+      {
+        "id": "72765d7f-820f-4e27-bdc0-d125b301ca9a",
+        "title": "feat: add Redis Sentinel and TLS support in ExampleApp",
+        "number": 765,
+        "fullIdentifier": "example-org/example-app#765",
+        "status": "open",
+        "mergeStatus": "behind",
+        "url": "https://github.com/example-org/example-app/pull/765",
+        "openedAt": "2026-09-16T12:25:07.000Z",
+        "diffStats": {
+          "fileCount": 17,
+          "additions": 595,
+          "deletions": 93
+        },
+        "creator": {
+          "name": "Fixture Engineer"
+        },
+        "linkedIssues": []
+      },
+      {
+        "id": "04587292-6dc3-4b22-8cc5-cb958cf8da3e",
+        "title": "AGE-2101: Add optional client TLS configuration for ExampleApp",
+        "number": 6359,
+        "fullIdentifier": "example-org/example-charts#6359",
+        "status": "approved",
+        "mergeStatus": "ready",
+        "url": "https://github.com/example-org/example-charts/pull/6359",
+        "openedAt": "2026-09-15T13:13:12.000Z",
+        "diffStats": {
+          "fileCount": 1,
+          "additions": 8,
+          "deletions": 2
+        },
+        "creator": {
+          "name": "Fixture Engineer"
+        },
+        "linkedIssues": []
+      },
+      {
+        "id": "a8e6c3ce-b02c-42d4-a147-7221ba54c847",
+        "title": "AGE-2217: enforce CREATE_AGENT on ExampleApp remote agent ensure",
+        "number": 11082,
+        "fullIdentifier": "example-org/example-server#11082",
+        "status": "merged",
+        "mergeStatus": "merged",
+        "url": "https://github.com/example-org/example-server/pull/11082",
+        "openedAt": "2026-09-15T10:57:03.000Z",
+        "diffStats": {
+          "fileCount": 3,
+          "additions": 46,
+          "deletions": 8
+        },
+        "creator": {
+          "name": "Fixture Author"
+        },
+        "linkedIssues": []
+      }
+    ],
+    "hasNextPage": true
+  },
+  "source": "live-recording-curated"
+}

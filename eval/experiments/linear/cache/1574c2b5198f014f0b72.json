@@ -1,0 +1,46 @@
+{
+  "key": "1574c2b5198f014f0b72",
+  "server": "linear",
+  "tool": "list_issue_statuses",
+  "arguments": {
+    "team": "qa-release"
+  },
+  "response": [
+    {
+      "id": "cf6c783c-509f-4ce0-8bb8-46834f912be8",
+      "type": "started",
+      "name": "In Review"
+    },
+    {
+      "id": "ca9701b8-bf59-4ab3-a030-f07414ec151c",
+      "type": "canceled",
+      "name": "Canceled"
+    },
+    {
+      "id": "698f5a16-632c-455b-be7b-d693d13f287b",
+      "type": "backlog",
+      "name": "Backlog"
+    },
+    {
+      "id": "68e8931a-29be-4318-b533-30aae265b944",
+      "type": "unstarted",
+      "name": "Todo"
+    },
+    {
+      "id": "6395b58d-8cbe-4a9f-9a44-a2eff20a931d",
+      "type": "duplicate",
+      "name": "Duplicate"
+    },
+    {
+      "id": "32b55c2d-3bec-40ce-b9cc-28cc7fb6b6fc",
+      "type": "completed",
+      "name": "Done"
+    },
+    {
+      "id": "0bd00906-9ea0-4b9d-8235-06c2c164aded",
+      "type": "started",
+      "name": "In Progress"
+    }
+  ],
+  "source": "live-recording"
+}

@@ -1,0 +1,276 @@
+{
+  "unjudged_trials": 0,
+  "classes": {
+    "capability_gap": {
+      "baseline": {
+        "trials": 3,
+        "trial_pass_rate": 0.0
+      },
+      "treatment": {
+        "trials": 3,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 1.0
+    },
+    "destructive": {
+      "baseline": {
+        "trials": 6,
+        "trial_pass_rate": 1.0
+      },
+      "treatment": {
+        "trials": 6,
+        "trial_pass_rate": 0.8333333333333334
+      },
+      "trial_pass_rate_lift": -0.16666666666666663
+    },
+    "efficiency": {
+      "baseline": {
+        "trials": 6,
+        "trial_pass_rate": 0.0
+      },
+      "treatment": {
+        "trials": 6,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 1.0
+    },
+    "multi_hop": {
+      "baseline": {
+        "trials": 6,
+        "trial_pass_rate": 0.16666666666666666
+      },
+      "treatment": {
+        "trials": 6,
+        "trial_pass_rate": 1.0
+      },
+      "trial_pass_rate_lift": 0.8333333333333334
+    },
+    "overlap_linear": {
+      "baseline": {
+        "trials": 36,
+        "trial_pass_rate": 0.25
+      },
+      "treatment": {
+        "trials": 36,
+        "trial_pass_rate": 0.9166666666666666
+      },
+      "trial_pass_rate_lift": 0.6666666666666666
+    }
+  },
+  "items": {
+    "baseline/cx-issue-to-cycle-01": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/cx-review-and-ticket-discussion-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/eff-states-before-write-14": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/gap-delete-linear-issue-10": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-comment-vs-description-09": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-cycle-vs-issues-01": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-diff-threads-vs-comments-11": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-document-vs-docs-07": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/lin-get-vs-list-issue-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/lin-help-vs-document-08": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/lin-initiative-vs-project-05": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-link-vs-file-attachment-12": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-milestone-vs-cycle-06": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-project-vs-issues-04": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/lin-search-issue-03": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/lin-status-vs-comments-10": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "baseline/policy-filter-at-source-04": {
+      "attempts": 3,
+      "pass_at_k": false,
+      "strict_reliability": false
+    },
+    "baseline/policy-linear-delete-01": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "baseline/policy-linear-merge-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/cx-issue-to-cycle-01": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/cx-review-and-ticket-discussion-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/eff-states-before-write-14": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/gap-delete-linear-issue-10": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-comment-vs-description-09": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-cycle-vs-issues-01": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-diff-threads-vs-comments-11": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-document-vs-docs-07": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "treatment/lin-get-vs-list-issue-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-help-vs-document-08": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-initiative-vs-project-05": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    },
+    "treatment/lin-link-vs-file-attachment-12": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-milestone-vs-cycle-06": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-project-vs-issues-04": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-search-issue-03": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/lin-status-vs-comments-10": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/policy-filter-at-source-04": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/policy-linear-delete-01": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": true
+    },
+    "treatment/policy-linear-merge-02": {
+      "attempts": 3,
+      "pass_at_k": true,
+      "strict_reliability": false
+    }
+  },
+  "usage": {
+    "baseline": {
+      "trials": 57.0,
+      "input_tokens": 7912293.0,
+      "output_tokens": 91685.0,
+      "cache_read_tokens": 5707392.0,
+      "cache_write_tokens": 0.0,
+      "raw_cost_cents": 0.0,
+      "charged_cents": 0.0,
+      "mean_total_tokens": 240550.35087719298,
+      "skill_read_rate": 0.0
+    },
+    "treatment": {
+      "trials": 57.0,
+      "input_tokens": 2876738.0,
+      "output_tokens": 38595.0,
+      "cache_read_tokens": 1732352.0,
+      "cache_write_tokens": 0.0,
+      "raw_cost_cents": 0.0,
+      "charged_cents": 0.0,
+      "mean_total_tokens": 81538.33333333333,
+      "skill_read_rate": 1.0
+    }
+  }
+}

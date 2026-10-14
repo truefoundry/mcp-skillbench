@@ -1,0 +1,13 @@
+{
+  "key": "915037f1e4ed4a329ee5",
+  "server": "slack",
+  "tool": "slack_read_file",
+  "arguments": {
+    "file_id": "__unknown_fixture__"
+  },
+  "response": {
+    "error": "file_not_found",
+    "message": "No recorded file matches this identifier."
+  },
+  "source": "synthetic-default-2026-09-17"
+}

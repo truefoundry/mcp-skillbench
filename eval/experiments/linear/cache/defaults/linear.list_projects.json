@@ -1,0 +1,26 @@
+{
+  "key": "3654dd1a9ce6c538ff83",
+  "server": "linear",
+  "tool": "list_projects",
+  "arguments": {
+    "includeArchived": false,
+    "query": "test",
+    "team": "qa-release"
+  },
+  "response": {
+    "projects": [
+      {
+        "id": "7d263206-e968-42dc-815b-017ba4f2dbc6",
+        "name": "[zzz-test] exec-bench2 sandbox project — safe to cancel",
+        "description": "Throwaway project for benchmark status-update writes.",
+        "status": {
+          "name": "Canceled",
+          "type": "canceled"
+        },
+        "team": "qa-release"
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16-curated"
+}

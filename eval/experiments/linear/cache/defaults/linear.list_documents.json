@@ -1,0 +1,41 @@
+{
+  "key": "36a222d8d6b1bacf5d33",
+  "server": "linear",
+  "tool": "list_documents",
+  "arguments": {
+    "includeArchived": false,
+    "query": "Social Plan & Post Calendar"
+  },
+  "response": {
+    "documents": [
+      {
+        "id": "1e62f815-e9da-4d7c-a3e5-bdae2943dee6",
+        "title": "Social Plan & Post Calendar",
+        "content": "Channels: LinkedIn · X · Instagram · Reddit · Discord · Substack\n\nEach dated post below is also a Linear issue, labelled Social.\n\n## Post calendar\n\n| Date | Phase | Post | Asset needed | Account | Issue |\n| -- | -- | -- | -- | -- | -- |\n| Thu 8 Oct | Pre | Gameplay teaser, no prize reveal | Gameplay recording or GIF | Company | (truncated, use `get_document` for full description)",
+        "icon": ":mega:",
+        "url": "https://linear.app/example/document/social-plan-and-post-calendar-8d0cd747c575",
+        "slugId": "8d0cd747c575",
+        "createdAt": "2026-09-10T18:08:24.063Z",
+        "updatedAt": "2026-09-10T18:31:30.437Z",
+        "archivedAt": null,
+        "creator": {
+          "id": "2360c5f7-1436-4884-ba65-f4cdc6b601da",
+          "name": "Avery Quinn"
+        },
+        "updatedBy": {
+          "id": "2360c5f7-1436-4884-ba65-f4cdc6b601da",
+          "name": "Avery Quinn"
+        },
+        "project": {
+          "id": "db26fc2e-f99a-4438-a9aa-ae5fe2cccbec",
+          "name": "Industry Summit"
+        },
+        "initiative": null,
+        "team": null,
+        "issue": null
+      }
+    ],
+    "hasNextPage": false
+  },
+  "source": "live-recording"
+}

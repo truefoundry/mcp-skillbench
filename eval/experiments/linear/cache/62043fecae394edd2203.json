@@ -1,0 +1,13 @@
+{
+  "key": "62043fecae394edd2203",
+  "server": "linear",
+  "tool": "get_user",
+  "arguments": {
+    "query": "qa-release"
+  },
+  "response": {
+    "error": "not_found",
+    "message": "Could not find user qa-release"
+  },
+  "source": "live-error-normalized"
+}

@@ -1,0 +1,12 @@
+{
+  "key": "450a73043ffb98c706c1",
+  "server": "slack",
+  "tool": "slack_read_user_profile",
+  "arguments": {
+    "user_id": "U0EXAMPLE04"
+  },
+  "response": {
+    "result": "fixture-member-d (Fixture Member D)\nFixture Workspace\nMember"
+  },
+  "source": "live-read-2026-09-17-redacted"
+}

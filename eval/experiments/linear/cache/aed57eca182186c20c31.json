@@ -1,0 +1,13 @@
+{
+  "key": "aed57eca182186c20c31",
+  "server": "linear",
+  "tool": "list_users",
+  "arguments": {
+    "query": "qa-release"
+  },
+  "response": {
+    "users": [],
+    "hasNextPage": false
+  },
+  "source": "live-read-2026-09-16"
+}

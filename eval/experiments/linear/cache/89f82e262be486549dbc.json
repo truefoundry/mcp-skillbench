@@ -1,0 +1,17 @@
+{
+  "key": "89f82e262be486549dbc",
+  "server": "linear",
+  "tool": "get_document",
+  "arguments": {
+    "id": "1e62f815-e9da-4d7c-a3e5-bdae2943dee6"
+  },
+  "response": {
+    "id": "1e62f815-e9da-4d7c-a3e5-bdae2943dee6",
+    "title": "Social Plan & Post Calendar",
+    "content": "A team-authored social post calendar with dated pre-event and post-event entries, required assets, accounts, and approval gates.",
+    "project": {
+      "name": "Industry Summit"
+    }
+  },
+  "source": "live-read-2026-09-16-curated"
+}

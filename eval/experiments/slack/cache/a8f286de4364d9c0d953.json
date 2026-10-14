@@ -1,0 +1,14 @@
+{
+  "key": "a8f286de4364d9c0d953",
+  "server": "slack",
+  "tool": "slack_read_canvas",
+  "arguments": {
+    "canvas_id": "F0EXAMPLE01"
+  },
+  "response": {
+    "canvas_id": "F0EXAMPLE01",
+    "title": "CLI improvements",
+    "markdown_content": "The canvas catalogs proposed CLI commands such as whoami, doctor, token management, gateway health, model tests, harness setup and verification, skill syncing, MCP listing/syncing, and repository/user/team operations. It distinguishes commands that can wrap existing APIs from commands likely to need backend work."
+  },
+  "source": "live-read-2026-09-16-curated"
+}

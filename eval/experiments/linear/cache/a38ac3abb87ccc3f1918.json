@@ -1,0 +1,21 @@
+{
+  "key": "a38ac3abb87ccc3f1918",
+  "server": "linear",
+  "tool": "search_documentation",
+  "arguments": {
+    "query": "cycles"
+  },
+  "response": [
+    {
+      "title": "Cycles",
+      "url": "https://linear.app/docs/use-cycles",
+      "snippet": "Cycles are time-boxed periods where a team works on a pre-defined set of work. Configure them under Team Settings > Cycles."
+    },
+    {
+      "title": "Cycle graph",
+      "url": "https://linear.app/docs/cycle-graph",
+      "snippet": "Cycle graphs show scope, target, started work, and completed work."
+    }
+  ],
+  "source": "live-read-2026-09-16-curated"
+}

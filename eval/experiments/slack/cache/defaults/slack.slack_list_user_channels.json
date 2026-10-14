@@ -1,0 +1,21 @@
+{
+  "key": "3c6bf6fd40d03ae18aee",
+  "server": "slack",
+  "tool": "slack_list_user_channels",
+  "arguments": {
+    "exclude_archived": true,
+    "types": "public_channel"
+  },
+  "response": {
+    "channels": [
+      "random",
+      "general",
+      "engineering",
+      "qa-release",
+      "llm-gateway",
+      "mcp-gateway"
+    ],
+    "total": 27
+  },
+  "source": "live-read-2026-09-16-curated"
+}
